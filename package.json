@@ -1,0 +1,22 @@
+{
+  "name": "gtpserver",
+  "version": "1.0.0",
+  "description": "GTP API Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rageragg/webGTPServer.git"
+  },
+  "keywords": [
+    "Transport"
+  ],
+  "author": "RaGE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rageragg/webGTPServer/issues"
+  },
+  "homepage": "https://github.com/rageragg/webGTPServer#readme"
+}
